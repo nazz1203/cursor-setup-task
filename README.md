@@ -17,4 +17,5 @@
 ## Issues Encountered & Solutions
 - Extensions panel not visible – Had to click Editor Window button first
 - Git not recognized – Downloaded Git from git-scm.com and restarted Cursor
-EOF
+
+
