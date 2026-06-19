@@ -65,5 +65,6 @@ Generic "top 10 Reddit tips" bloggers were excluded.
 - [x] Repo and folder structure set up
 - [x] sources.md with 10 experts completed
 - [x] README updated
-- [ ] YouTube transcripts (in progress)
-- [ ] LinkedIn posts (in progress)
+- [x] YouTube transcripts (7 videos collected)
+- [x] LinkedIn posts (4 authors collected)
+- [x] Case studies and articles in /other folder
